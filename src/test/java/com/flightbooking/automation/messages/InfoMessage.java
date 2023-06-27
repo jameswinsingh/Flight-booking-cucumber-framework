@@ -14,6 +14,7 @@ public class InfoMessage {
     public static String CLICK_DONE_INFO = "Click on the done button";
     public static String SELECT_CURRENCY_INFO = "Select currency as ";
     public static String CLICK_SEARCH_INFO = "Click on the search button";
+    public static String SELECT_MULTI_CITY_TRIP_INFO = "Test to select trip type as Round trip ";
 
 
 }

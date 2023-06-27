@@ -1,0 +1,376 @@
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: Multicity ==  Expected Result :: Round Trip
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Test to select trip type as Round trip 
+[main] INFO  com.flightbooking.automation.Pages.HolidayPackagesPage  - Verify whether trip type is selected as Round Trip
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: Multicity ==  Expected Result :: Multicity
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select a date on depart calender as 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the depart date is selected as 5
+[main] ERROR com.flightbooking.automation.utils.Log4jUtils  - FAIL:  Actual Result :: 5 ==  Expected Result :: 21
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select adult passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the adult passenger count is selected as 2 Adult
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Adult ==  Expected Result :: 2 Adult
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select child passenger count as 1
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the child passenger count is selected as 1 Child
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 1 Child ==  Expected Result :: 1 Child
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select infant passenger count as 2
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify the infant passenger count is selected as 2 Infant
+[main] INFO  com.flightbooking.automation.utils.Log4jUtils  - PASS:  Actual Result :: 2 Infant ==  Expected Result :: 2 Infant
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the done button
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Verify clicking on done should close the dropdown 
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Select currency as AED
+[main] INFO  com.flightbooking.automation.Pages.FlightBookingPage  - Click on the search button

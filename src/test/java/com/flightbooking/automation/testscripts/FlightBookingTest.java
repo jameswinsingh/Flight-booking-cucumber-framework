@@ -5,7 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 
 
 @CucumberOptions(
-        features = {"src/test/resources/Features/HolidayPackages.feature"},
+        features = {"src/test/resources/Features/Multicity.feature"},
         glue = "com.flightbooking.automation.stepdef",
         dryRun = false,
         monochrome = true,
