@@ -1,25 +1,28 @@
 package com.flightbooking.automation.utils;
 
-import org.apache.commons.io.FileUtils;
+import io.cucumber.java.Scenario;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
-import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 public class CaptureScreenshot {
-    public static WebDriver driver;
-    public static void captureScreenshot(String testCaseName) {
-        TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
-        File source = takesScreenshot.getScreenshotAs(OutputType.FILE);
-        File file = new File(System.getProperty("user.dir") + "/reports/" + testCaseName + ".png");
-        try {
-            FileUtils.copyFile(source, file);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+    public void captureScreenshot(WebDriver driver, Scenario scenario) {
+        if (scenario.isFailed()) {
+            byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+            scenario.attach(screenshot, "image/png", "FailedTestScreenshot");
+            String screenshotName = scenario.getName().replaceAll(" ", "_");
+            String filePath = System.getProperty("user.dir") + "\\screenshots\\" + screenshotName + ".png";
+            System.out.println(filePath);
+            try {
+                Files.write(Paths.get(filePath), screenshot);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
-        System.getProperty("user.dir");
     }
 
 }

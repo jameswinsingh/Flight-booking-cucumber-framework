@@ -15,41 +15,9 @@
   </properties>
 
   <build>
-<!--    <plugins>-->
-<!--      <plugin>-->
-<!--        <groupId>org.apache.maven.plugins</groupId>-->
-<!--        <artifactId>maven-surefire-plugin</artifactId>-->
-<!--        <version>3.1.0</version>-->
-<!--        <configuration>-->
-<!--          <includes>-->
-<!--            <include>-->
-<!--              com.cucumber.automation.testRunner.TestRunner-->
-<!--            </include>-->
-<!--          </includes>-->
-<!--        </configuration>-->
-<!--      </plugin>-->
 
-<!--      <plugin>-->
-<!--        <groupId>org.codehaus.mojo</groupId>-->
-<!--        <artifactId>exec-maven-plugin</artifactId>-->
-<!--        <version>3.0.0</version>-->
-<!--        <executions>-->
-<!--          <execution>-->
-<!--            <id>run-batch-file</id>-->
-<!--            <phase>test</phase>-->
-<!--            <goals>-->
-<!--              <goal>exec</goal>-->
-<!--            </goals>-->
-<!--            <configuration>-->
-<!--              <executable>cmd</executable>-->
-<!--              <arguments>-->
-<!--                <argument>/c</argument>-->
-<!--                <argument>mybatchfile.bat</argument>-->
-<!--              </arguments>-->
-<!--            </configuration>-->
-<!--          </execution>-->
-<!--        </executions>-->
-<!--      </plugin>-->
+
+
 
       <!--            <plugin>-->
       <!--                <groupId>org.apache.maven.plugins</groupId>-->
@@ -67,6 +35,7 @@
 <!--    </plugins>-->
     <!-- Other build configurations -->
     <plugins>
+
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -75,6 +44,55 @@
           <target>8</target>
         </configuration>
       </plugin>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.1.0</version>
+        <configuration>
+          <includes>
+            <include>
+              com.flightbooking.automation.testscripts.FlightBookingTest
+            </include>
+          </includes>
+        </configuration>
+      </plugin>
+
+<!--      <plugin>-->
+<!--        <groupId>org.codehaus.mojo</groupId>-->
+<!--        <artifactId>exec-maven-plugin</artifactId>-->
+<!--        <version>3.0.0</version>-->
+<!--        <executions>-->
+<!--          <execution>-->
+<!--            <id>run-batch-file</id>-->
+<!--            <phase>test</phase>-->
+<!--            <goals>-->
+<!--              <goal>exec</goal>-->
+<!--            </goals>-->
+<!--            <configuration>-->
+<!--              <executable>cmd</executable>-->
+<!--              <arguments>-->
+<!--                <argument>/c</argument>-->
+<!--                <argument>myBatch.bat</argument>-->
+<!--              </arguments>-->
+<!--            </configuration>-->
+<!--          </execution>-->
+<!--        </executions>-->
+<!--      </plugin>-->
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <mainClass>com.flightbooking.automation.testscripts.FlightBookingTest</mainClass>
+            </manifest>
+          </archive>
+        </configuration>
+      </plugin>
+
     </plugins>
   </build>
 

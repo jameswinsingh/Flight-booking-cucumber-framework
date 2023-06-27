@@ -7,9 +7,8 @@ import com.flightbooking.automation.utils.PropertyParser;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.*;
+import org.testng.annotations.AfterClass;
 
-import java.lang.reflect.Method;
 import java.time.Duration;
 
 public class Base {
@@ -25,31 +24,11 @@ public class Base {
         driver.navigate().to(configPropertyParser.getPropertyValue(ConfigPropertyKeys.URL));
     }
 
-    @BeforeSuite
-    public void beforeSuite() {
-        extent = new ExtentReports(FilePathConstants.EXTENT_REPORT_PATH);
-    }
-
-    @AfterMethod
-    public void afterMethod() {
-        extent.endTest(test);
-    }
-
-    @BeforeMethod
-    public void beforeMethod(Method method) {
-        test = extent.startTest((this.getClass().getSimpleName() + "::" + method.getName()), method.getName());
-    }
 
     @AfterClass
     public void afterClass() {
-        extent.flush();
-        extent.close();
         driver.quit();
+
     }
 
-//    @AfterSuite
-//    public void afterSuite() {
-//        extent.flush();
-//        extent.close();
-//    }
 }

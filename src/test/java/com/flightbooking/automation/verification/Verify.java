@@ -1,5 +1,6 @@
 package com.flightbooking.automation.verification;
 
+import com.flightbooking.automation.utils.Log4jUtils;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 import org.testng.Assert;
@@ -10,9 +11,11 @@ public class Verify {
         try {
             Assert.assertEquals(actual, expected);
             status = true;
-            System.out.println("PASS:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
+            Log4jUtils.info("PASS:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
+
         } catch (AssertionError assertionError) {
-            System.out.println("FAIL:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
+
+            Log4jUtils.error("FAIL:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
         }
         return status;
     }
@@ -22,9 +25,9 @@ public class Verify {
         try {
             Assert.assertEquals(actual, expected);
             status = true;
-            System.out.println("PASS:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
+            Log4jUtils.info("PASS:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
         } catch (AssertionError assertionError) {
-            System.out.println("FAIL:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
+            Log4jUtils.error("FAIL:  Actual Result :: " + actual + " == " + " Expected Result :: " + expected );
         }
         return status;
     }

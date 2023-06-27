@@ -3,10 +3,10 @@ package com.flightbooking.automation.utils;
 
 import org.apache.log4j.Logger;
 
-public class Log {
+public class Log4jUtils {
 
     // Initialize Log4j logs
-    public static Logger log = Logger.getLogger(Log.class.getName());
+    public static Logger log = Logger.getLogger(Log4jUtils.class.getName());
 
     public static void startTestCase(String sTestCaseName) {
         log.info("=====================================" + sTestCaseName + " TEST START=========================================");
