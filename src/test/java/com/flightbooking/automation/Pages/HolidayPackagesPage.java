@@ -87,8 +87,8 @@ public class HolidayPackagesPage {
     public void clickSearch() {
 
         log.info(InfoMessage.CLICK_SEARCH_INFO);
-        String searchButton = propertyParser.getPropertyValue(HolidayPackagesKeys.SEARCH_LOC);
-        click.clickElement(LocatorType.XPATH, searchButton);
+//        String searchButton = propertyParser.getPropertyValue(HolidayPackagesKeys.SEARCH_LOC);
+//        click.clickElement(LocatorType.XPATH, searchButton);
 
     }
 

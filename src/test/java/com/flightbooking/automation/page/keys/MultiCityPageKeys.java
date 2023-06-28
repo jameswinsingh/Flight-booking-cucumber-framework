@@ -9,5 +9,9 @@ public class MultiCityPageKeys {
     public static String FROM_DROP_DOWN_TWO_LOC = "two_from_drop_down";
     public static String FROM_DROP_DOWN_THREE_LOC = "three_from_drop_down";
     public static String ALL_FROM_DROP_DOWN_CITY_LOC = "from_all_city_values";
+    public static String CITY_ONE_CALENDER_LOC = "city_one_calender";
+    public static String CITY_TWO_CALENDER_LOC = "city_two_calender";
+    public static String CITY_THREE_CALENDER_LOC = "city_three_calender";
+    public static String ALL_DATE_IN_CALENDER_LOC = "all_dates";
 
 }

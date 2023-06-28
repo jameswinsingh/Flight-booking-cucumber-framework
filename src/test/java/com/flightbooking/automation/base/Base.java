@@ -6,6 +6,7 @@ import com.flightbooking.automation.constant.FilePathConstants;
 import com.flightbooking.automation.utils.PropertyParser;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
+import io.cucumber.java.After;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 
@@ -25,10 +26,5 @@ public class Base {
     }
 
 
-    @AfterClass
-    public void afterClass() {
-        driver.quit();
-
-    }
 
 }

@@ -8,3 +8,4 @@ Feature: Holiday Package
     And Select "Pune" from Return
     And Open calender and select the depart day "27"
     And Click on the search
+    And close the browser

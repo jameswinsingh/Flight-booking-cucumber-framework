@@ -6,11 +6,11 @@ Feature: Multiple cities
     And Accept the popup
     And Select "Chennai" as a first city on FROM tab
     And Select "Goa" as a first city on To tab
+    And Select first city calender and select the depart day as "29"
     And Select "Goa" as a second city on FROM tab
     And Select "Patna" as a second city on To tab
     And Select "Patna" as a third city on FROM tab
     And Select "Jaipur" as a third city on To tab
-    And Open calender and select the depart day "21"
     And select adult passenger count as "2"
     Then Count of the adult passenger should be "2 Adult"
     When select child passenger count as "1"
@@ -21,3 +21,4 @@ Feature: Multiple cities
     Then Check if the drop down is disappeared after clicking Done
     When Select currency as "AED"
     And Click on search
+    And close the browser

@@ -8,8 +8,8 @@ import com.flightbooking.automation.enums.LocatorType;
 import com.flightbooking.automation.messages.InfoMessage;
 import com.flightbooking.automation.messages.VerifyMessage;
 import com.flightbooking.automation.page.keys.MultiCityPageKeys;
-import com.flightbooking.automation.utils.CitySelector;
 import com.flightbooking.automation.utils.PropertyParser;
+import com.flightbooking.automation.utils.ReUsableMethods;
 import com.flightbooking.automation.verification.Verify;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
@@ -22,7 +22,7 @@ public class MultiCityBookingPage {
     WaitElement waitElement;
     WebDriver driver;
     PropertyParser propertyParser;
-    CitySelector citySelector;
+    ReUsableMethods reUsableMethods;
 
     public MultiCityBookingPage(WebDriver driver) {
         this.driver = driver;
@@ -32,11 +32,11 @@ public class MultiCityBookingPage {
         propertyParser = new PropertyParser(FilePathConstants.MULTI_CITY_LOCATOR);
     }
 
-    public static Logger log = Logger.getLogger(HolidayPackagesPage.class);
+    public static Logger log = Logger.getLogger(MultiCityBookingPage.class);
 
     public void clickOnMultiCity() {
         try {
-            log.info(InfoMessage.SELECT_ROUND_TRIP_INFO);
+            log.info(InfoMessage.SELECT_MULTI_CITY_TRIP_INFO);
             String actualResult = driver.findElement(By.xpath(propertyParser.getPropertyValue(MultiCityPageKeys.MULTI_CITY_RADIO_BUTTON_LOC))).getText();
             click.clickElement(LocatorType.XPATH, propertyParser.getPropertyValue(MultiCityPageKeys.MULTI_CITY_RADIO_BUTTON_LOC));
 
@@ -49,45 +49,58 @@ public class MultiCityBookingPage {
     }
 
     public void handlePopup() {
+        log.info(InfoMessage.POP_UP_INFO);
         waitElement.waitForElement(LocatorType.XPATH, propertyParser.getPropertyValue(MultiCityPageKeys.POPUP_LOC));
         driver.findElement(By.xpath(propertyParser.getPropertyValue(MultiCityPageKeys.POPUP_LOC))).click();
     }
 
 
     public void selectCityOnFromTab(String cityName) {
-        citySelector = new CitySelector(driver);
-        citySelector.selectCountryOnFrom(cityName, MultiCityPageKeys.FROM_DROP_DOWN_ONE_LOC, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
+        log.info(InfoMessage.FIRST_FROM_CITY_INFO + cityName);
+        reUsableMethods = new ReUsableMethods(driver);
+        reUsableMethods.selectCountryOnFrom(cityName, MultiCityPageKeys.FROM_DROP_DOWN_ONE_LOC, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
 
 
     }
 
     public void selectCityOnToTab(String cityName) {
-        citySelector = new CitySelector(driver);
-        citySelector.selectCityOnTo(cityName, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
+        log.info(InfoMessage.FIRST_TO_CITY_INFO + cityName);
+        reUsableMethods = new ReUsableMethods(driver);
+        reUsableMethods.selectCityOnTo(cityName, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
 
     }
 
+    public void selectDateForFirstCity(String day) {
+        log.info(InfoMessage.DATE_INFO + day);
+        reUsableMethods = new ReUsableMethods(driver);
+        reUsableMethods.datePicker(day, MultiCityPageKeys.CITY_ONE_CALENDER_LOC, MultiCityPageKeys.ALL_DATE_IN_CALENDER_LOC);
+    }
+
     public void selectCityOnSecondFromTab(String cityName) {
-        citySelector = new CitySelector(driver);
-        citySelector.selectCountryOnFrom(cityName, MultiCityPageKeys.FROM_DROP_DOWN_TWO_LOC, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
+        log.info(InfoMessage.SECOND_FROM_CITY_INFO + cityName);
+        reUsableMethods = new ReUsableMethods(driver);
+        reUsableMethods.selectCountryOnFrom(cityName, MultiCityPageKeys.FROM_DROP_DOWN_TWO_LOC, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
 
     }
 
     public void selectCityOnSecondToTab(String cityName) {
-        citySelector = new CitySelector(driver);
-        citySelector.selectCityOnTo(cityName, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
+        log.info(InfoMessage.SECOND_TO_CITY_INFO + cityName);
+        reUsableMethods = new ReUsableMethods(driver);
+        reUsableMethods.selectCityOnTo(cityName, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
 
     }
 
     public void selectCityOnThirdFromTab(String cityName) {
-        citySelector = new CitySelector(driver);
-        citySelector.selectCountryOnFrom(cityName, MultiCityPageKeys.FROM_DROP_DOWN_THREE_LOC, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
+        log.info(InfoMessage.THIRD_FROM_CITY_INFO + cityName);
+        reUsableMethods = new ReUsableMethods(driver);
+        reUsableMethods.selectCountryOnFrom(cityName, MultiCityPageKeys.FROM_DROP_DOWN_THREE_LOC, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
 
     }
 
     public void selectCityOnThirdToTab(String cityName) {
-        citySelector = new CitySelector(driver);
-        citySelector.selectCityOnTo(cityName, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
+        log.info(InfoMessage.THIRD_TO_CITY_INFO + cityName);
+        reUsableMethods = new ReUsableMethods(driver);
+        reUsableMethods.selectCityOnTo(cityName, MultiCityPageKeys.ALL_FROM_DROP_DOWN_CITY_LOC);
 
     }
 

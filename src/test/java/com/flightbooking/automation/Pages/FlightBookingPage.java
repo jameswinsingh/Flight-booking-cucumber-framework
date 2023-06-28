@@ -18,6 +18,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
+import java.util.Arrays;
 import java.util.List;
 
 public class FlightBookingPage {
@@ -121,7 +122,7 @@ public class FlightBookingPage {
             String[] arr = getText.split(" ", 4);
 
             int actualResult = 0;
-            for (int i = 0; i <= arr.length; i++) {
+            for (int i = 0; i < arr.length; i++) {
                 actualResult = Integer.parseInt(arr[2]);
             }
 
@@ -281,7 +282,6 @@ public class FlightBookingPage {
         click.clickElement(LocatorType.XPATH, searchButton);
 
     }
-
 
 }
 

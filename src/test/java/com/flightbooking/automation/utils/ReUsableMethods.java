@@ -5,23 +5,20 @@ import com.flightbooking.automation.actionevents.events.Click;
 import com.flightbooking.automation.actionevents.events.WaitElement;
 import com.flightbooking.automation.constant.FilePathConstants;
 import com.flightbooking.automation.enums.LocatorType;
-import com.flightbooking.automation.messages.InfoMessage;
-import com.flightbooking.automation.page.keys.FlightBookingKeys;
-import com.flightbooking.automation.page.keys.MultiCityPageKeys;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-public class CitySelector {
+public class ReUsableMethods {
 
     Click click;
     WebDriver driver;
     PropertyParser propertyParser;
     WaitElement waitElement;
 
-    public CitySelector(WebDriver driver) {
+    public ReUsableMethods(WebDriver driver) {
         this.driver = driver;
         click = new Click(driver);
         waitElement = new WaitElement();
@@ -54,4 +51,23 @@ public class CitySelector {
         }
 
     }
+
+    public void datePicker(String day, String dateLoc, String allDateValues) {
+        try {
+            Thread.sleep(2000);
+            driver.findElement(By.xpath(propertyParser.getPropertyValue(dateLoc))).click();
+            List<WebElement> getDate = driver.findElements(By.xpath(propertyParser.getPropertyValue(allDateValues)));
+            for (int i = 0; i < getDate.size(); i++) {
+                if (getDate.get(i).getText().contains(day)) {
+                    getDate.get(i).click();
+                    break;
+                }
+            }
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+
+
+    }
+
 }

@@ -19,6 +19,7 @@ Feature: Book Flight Ticket
     Then Check if the drop down is disappeared after clicking Done
     When Select currency as "AED"
     And Click on search
+    And close the browser
 
   Scenario Outline: Book Flight for multiple users
     Given Launch application
@@ -39,6 +40,7 @@ Feature: Book Flight Ticket
     Then Check if the drop down is disappeared after clicking Done
     When Select currency as "<Currency>"
     And Click on search
+    And close the browser
 
     Examples:
       | Country  | From     | TO             | DepartDate | ReturnDate | Adult | Child | Infant | Currency |

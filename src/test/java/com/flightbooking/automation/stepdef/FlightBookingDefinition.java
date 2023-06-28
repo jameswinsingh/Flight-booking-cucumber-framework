@@ -5,6 +5,7 @@ import com.flightbooking.automation.base.Base;
 import com.flightbooking.automation.utils.CaptureScreenshot;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -20,6 +21,11 @@ public class FlightBookingDefinition extends Base {
         CaptureScreenshot captureScreenshot = new CaptureScreenshot();
         captureScreenshot.captureScreenshot(driver, method);
     }
+//    @AfterAll
+//    public void tearDown()
+//    {
+//        driver.quit();
+//    }
 
     @Given("Launch application")
     public void launch_application() {
@@ -137,4 +143,8 @@ public class FlightBookingDefinition extends Base {
         bookingPage.clickSearch();
     }
 
+    @And("close the browser")
+    public void closeTheBrowser() {
+        driver.quit();
+    }
 }
